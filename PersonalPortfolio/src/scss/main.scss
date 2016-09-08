@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+}
+nav{
+    background-color: darkred;
+}
+
+#thePage{
+    background-color: white;
+}
+
+section{
+    padding: 40px;
+}
+
+#self-intro {
+    background-color: lightgrey;
+}
+
+#circlePic{
+    margin:0 auto;
+    width:200px;
+    height:200px;
+    overflow:hidden;
+    border-radius:50%;
+
+    img{
+
+        height:100%;
+        margin-left:-32%;
+    }
+}
